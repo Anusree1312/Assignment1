@@ -1,2 +1,2 @@
 # Assignment1
-https://us3.ca.analytics.ibm.com/bi/?perspective=explore&pathRef=.my_folders%2FStartup%2BData%2BModule&subView=model0000018326fbf98d_00000000
+https://docs.google.com/document/d/1fkvZfWRbmk-v2WLe9WhTgCwA8WlvcVTm/edit?usp=sharing&ouid=101513647377894299757&rtpof=true&sd=true
